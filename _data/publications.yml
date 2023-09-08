@@ -7,7 +7,7 @@ main:
     pdf: https://drive.google.com/file/d/1X6qsobAznVGJUottsbojo698yx2pAvH8/view
     code: 
     bibtex: 
-    image: 
+    image: assets/img/SocNet.png
     notes: 
 
   - title: "Towards Bengali WordNet Enrichment using Knowledge Graph Completion Techniques"
@@ -19,4 +19,4 @@ main:
     page: 
     bibtex: 
     notes: 
-    image: 
+    image: assets/img/WordNet.png
