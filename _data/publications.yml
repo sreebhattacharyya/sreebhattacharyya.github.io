@@ -13,7 +13,7 @@ main:
   - title: "Towards Bengali WordNet Enrichment using Knowledge Graph Completion Techniques"
     authors: <strong>Sree Bhattacharyya</strong>, Abhik Jana
     conference_short: EURALI @ LREC 2022
-    conference: Proceedings of the Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia within the 13th Language Resources and Evaluation Conference
+    conference: Proceedings of the Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI) within the 13th Language Resources and Evaluation Conference (LREC) 2022
     pdf: https://aclanthology.org/2022.eurali-1.12/
     code:
     page: 
