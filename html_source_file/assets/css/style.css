@@ -59,7 +59,7 @@ papertitle { font-weight: 600; font-size: 100%; }
   lightonly { visibility: hidden; }
   darkonly { visibility: visible; }
   papertitle { color: #eeeff0; } }
-.image { border-radius: 0.35em; border: 0; display: inline-block; position: relative; }
+.image { border-radius: 0.2em; border: 0; display: inline-block; position: relative; }
 
 .image:before { -moz-transition: opacity 0.2s ease-in-out; -webkit-transition: opacity 0.2s ease-in-out; -ms-transition: opacity 0.2s ease-in-out; transition: opacity 0.2s ease-in-out; border-radius: 0.35em; content: ''; display: block; height: 100%; left: 0; opacity: 0.5; position: absolute; top: 0; width: 100%; }
 
@@ -67,7 +67,7 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image.avatar:before { display: none; }
 
-.image.avatar img { border-radius: 100%; width: 70%; padding: 10px; }
+.image.avatar img { border-radius: 100%; width: 100%; padding: 10px; }
 
 #header .image.avatar { margin: 0 0 1em 0; width: 8.00em; }
 
