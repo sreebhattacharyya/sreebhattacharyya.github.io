@@ -1,5 +1,15 @@
 main:
 
+  - title: "A Heterogeneous Multimodal Graph Learning Framework for Emotion Recognition in Social Networks"
+    authors: Sree Bhattacharyya, Shuhua Yang, James Z. Wang
+    conference_short: ACII 2024
+    conference: 12th International Conference on Affective Computing and Intelligent Interaction (2024)
+    pdf: 
+    code: 
+    bibtex:
+    image: assets/img/ACII_Image.png
+    notes: Oral Presentation
+
   - title: "Link Prediction for Social Networks using Representation Learning and Heuristic-based Features"
     authors: Samarth Khanna, <strong>Sree Bhattacharyya</strong>, Sudipto Ghosh, Kushagra Agarwal, Asit Kumar Das
     conference_short: MAISoN @ IJCAI 2023

@@ -20,6 +20,7 @@ I am very active on most socials, particularly E-mail and Twitter. If you are in
 
 ## News
 
+- **[June 2024]** My first PhD project got accepted as a paper at ACII 2024 for oral presentation! 
 - **[Aug. 2023]** I started my PhD at Penn State! 
 - **[July 2023]** I completed a year at Microsoft!
 - **[June 2023]** My undergrad thesis got accepted as a workshop paper at IJCAI!
