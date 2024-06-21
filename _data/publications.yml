@@ -7,7 +7,7 @@ main:
     pdf: 
     code: 
     bibtex:
-    image: assets/img/ACII_Image.png
+    image: assets/img/ACII_image.png
     notes: Oral Presentation
 
   - title: "Link Prediction for Social Networks using Representation Learning and Heuristic-based Features"
