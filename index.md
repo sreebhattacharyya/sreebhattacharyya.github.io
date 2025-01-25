@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year PhD student at Pennsylvania State University, in the [College of Information Sciences and Technology](https://ist.psu.edu/), where I am advised by [Dr. James Z. Wang](https://wang.ist.psu.edu/docs/home.shtml). My broad area of research interest is multimodal AI, with a focus on improving abtract, subjective reasoning capabilities in multimodal AI models - such as emotional, cultural, or social understanding. At present, I am working on the following (and/or asking the following research questions): 
+I am a second-year PhD student at Pennsylvania State University, in the [College of Information Sciences and Technology](https://ist.psu.edu/), where I am advised by [Dr. James Z. Wang](https://wang.ist.psu.edu/docs/home.shtml). My broad area of research interest is _multimodal AI_, with a focus on _improving abtract, subjective reasoning capabilities_ in multimodal AI models - such as _emotional, cultural, or social understanding_. At present, I am working on the following (and/or asking the following research questions): 
 
 - Can we model and automatically predict what emotions are expressed through body language/gestures? 
 - Using theories from cognitive science and neuroscience to better inform model design for emotion understanding.
