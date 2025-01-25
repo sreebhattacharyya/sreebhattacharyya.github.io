@@ -3,7 +3,7 @@ main:
   - title: "Evaluating Vision-Language Models for Emotion Recognition"
     authors: <strong>Sree Bhattacharyya</strong>, James Z. Wang
     conference_short: NAACL 2025 Findings
-    conference: The Annual Conference of the Nations of the Americas Chapter of the Association of Computational Linguistics (NAACL)
+    conference: Findings of The Annual Conference of the Nations of the Americas Chapter of the Association of Computational Linguistics (NAACL) 2025
     pdf: 
     code: 
     page: 
@@ -19,7 +19,7 @@ main:
     code: 
     bibtex:
     image: assets/img/ACII_image.png
-    notes: Oral Presentation
+    notes:
 
   - title: "Link Prediction for Social Networks using Representation Learning and Heuristic-based Features"
     authors: Samarth Khanna, <strong>Sree Bhattacharyya</strong>, Sudipto Ghosh, Kushagra Agarwal, Asit Kumar Das
