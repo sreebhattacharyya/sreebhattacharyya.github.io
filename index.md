@@ -4,22 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student at Pennsylvania State University, in the [College of Information Sciences and Technology](https://ist.psu.edu/). I work as a Graduate Research Assistant at the [Wang Group](https://wang.ist.psu.edu/docs/home.shtml). My current research areas of interest are related to multimodal AI, with a focus on applications in Affective Computing. I am particulary interested in understanding what contextual factors influence the way computers understand emotions, and creating methods that help model emotions in a more holistic and situated manner. At present, I am looking especially at how Large Language and Multimodal Models can be made to possess contextual understanding of emotions. 
+I am a second-year PhD student at Pennsylvania State University, in the [College of Information Sciences and Technology](https://ist.psu.edu/), where I am advised by [Dr. James Z. Wang](https://wang.ist.psu.edu/docs/home.shtml). My broad area of research interest is multimodal AI, with a focus on improving abtract, subjective reasoning capabilities in multimodal AI models - such as emotional, cultural, or social understanding. At present, I am working on the following (and/or asking the following research questions): 
+
+- Can we model and automatically predict what emotions are expressed through body language/gestures? 
+- Using theories from cognitive science and neuroscience to better inform model design for emotion understanding.
+- What are some general improvements in VLMs that can enhance their capabilities in a wide range of subjective reasoning tasks (eg., personality alignment, etc.)?
+- How can we predict the memorability of some content? (In collaboration with Dr. Yaman K. Singla, and Somesh Singh from Adobe MDSR Labs, India)
 
 Prior to joining my PhD, I was a Software Engineer at [Microsoft, India](https://www.microsoft.com/en-in/msidc/), working with Azure storage. I graduated with a B.Tech. in Computer Science from IIEST Shibpur in 2022. 
 
 As an undergraduate student, I was fortunate to have been advised by [Prof. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html) at the University of Hamburg, for my internship as a DAAD WISE Scholar. I worked on improving lexical resources for low-resource languages during this internship, where I was also closely worked with [Dr. Abhik Jana](https://www.iitbbs.ac.in/profile.php/abhik/). For my undergraduate thesis at IIEST, I worked on applications of graph learning, and explored areas like medical diagnosis using GNNs, and social network analysis.
 
-I am very active on most socials, particularly E-mail and Twitter. If you are interested in my work, have questions, or want to share anything at all, feel free to reach out! 
-
-## Research Interests
-
-- **Affective Computing:** emotion modeling, context modeling for emotion recognition
-- **Multimodal AI:** applications in affective computing that use vision, language and speech
-- **Natural Language Processing:** Multilingual NLP with applications in building technologies for lesser-resourced languages
+Besides academics, I love music in any and every form. I trained in Indian classical and folk music vocals for almost 2 decades, often performing professionally in India. I also enjoy theatre, and was part of a professional group for over 6 years. These days, I have been trying to learn how to play the piano, and understand Western classical music (with the distant dream of performing in a musical someday!), besides playing a number of sports (that I had never previously played - like tennis, table tennis, pickleball, etc. - and am generally extremely bad at!). 
 
 ## News
 
+- **[Jan. 2025]** "Evaluating Vision-Language Models for Emotion Recognition" accepted to NAACL '25 Findings!
 - **[June 2024]** My first PhD project got accepted as a paper at ACII 2024 for oral presentation! 
 - **[Aug. 2023]** I started my PhD at Penn State! 
 - **[July 2023]** I completed a year at Microsoft!
