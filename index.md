@@ -15,7 +15,7 @@ Prior to joining my PhD, I was a Software Engineer at [Microsoft, India](https:/
 
 As an undergraduate student, I was fortunate to have been advised by [Prof. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html) at the University of Hamburg, for my internship as a DAAD WISE Scholar. I worked on improving lexical resources for low-resource languages during this internship, where I also closely worked with [Dr. Abhik Jana](https://www.iitbbs.ac.in/profile.php/abhik/). For my undergraduate thesis at IIEST, I worked on applications of graph learning, and explored areas like medical diagnosis using GNNs, and social network analysis.
 
-Besides academics, I love music in any and every form. I trained in Indian classical and folk music vocals for almost 2 decades, often performing professionally in India. I also enjoy theatre, and was part of a professional group for over 6 years. These days, I am learning how to play the piano, and trying to understand Western classical music (with the distant dream of performing in a musical someday!). I enjoy trying to play tennis (which I am extremely bad at!), and am also learning to swim. 
+Besides academics, I love music in any and every form. I trained in Indian classical and folk music vocals for almost 2 decades, often performing professionally in India. I also enjoy theatre, and was part of a professional group for over 6 years. These days, I am learning how to play the piano, and trying to understand Western classical music (with the distant dream of performing in a musical someday!). I enjoy trying to play tennis (which I am extremely bad at!), and swimming. 
 
 ## News
 
