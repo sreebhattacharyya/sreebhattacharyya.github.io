@@ -9,7 +9,7 @@ I am a second-year PhD student at Pennsylvania State University, in the [College
 - Can we model and automatically predict what emotions are expressed through body language/gestures? 
 - Using theories from cognitive science and neuroscience to better inform model design for emotion understanding.
 - What are some general improvements in VLMs that can enhance their capabilities in a wide range of subjective reasoning tasks (eg., personality alignment, etc.)?
-- How can we predict the memorability of some content? (In collaboration with Dr. Yaman K. Singla, and Somesh Singh from Adobe MDSR Labs, India)
+- How can we predict the memorability of some content? (In collaboration with Adobe MDSR Labs, India)
 
 Prior to joining my PhD, I was a Software Engineer at [Microsoft, India](https://www.microsoft.com/en-in/msidc/), working with Azure storage. I graduated with a B.Tech. in Computer Science from IIEST Shibpur in 2022. 
 
