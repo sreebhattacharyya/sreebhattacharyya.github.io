@@ -68,6 +68,13 @@ h1 { font-weight: 500; color: #043361; margin: 0 0 20px; }
 
 h2 { color: #043361; font-weight: 500; margin: 2px 0px 15px; font-size: 157%; }
 
+.scrollable-news {
+  max-height: 200px;      /* Adjust height as needed */
+  overflow-y: auto;
+  padding-right: 10px;    /* Prevent content from hiding behind scrollbar */
+  margin-bottom: 1em;
+}
+
 p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
 h1, h2, h3 { line-height: 1.1; }
