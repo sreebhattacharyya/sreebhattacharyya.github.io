@@ -19,6 +19,8 @@ Besides academics, I love music in any and every form. I trained in Indian class
 
 ## News
 
+- **[May 2025]** Attending ICRA 2025 in Atlanta, for the amazing Arts and Robotics Track! 🎨🤖
+- **[Apr. 2025]** Attending NAACL 2025 in Albuquerque! ☀️🌵
 - **[Jan. 2025]** "Evaluating Vision-Language Models for Emotion Recognition" accepted to NAACL '25 Findings!
 - **[June 2024]** My first PhD project got accepted as a paper at ACII 2024 for oral presentation! 
 - **[Aug. 2023]** I started my PhD at Penn State! 
