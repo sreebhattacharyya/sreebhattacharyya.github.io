@@ -19,6 +19,7 @@ Besides academics, I love music in any and every form. I trained in Indian class
 
 ## News
 
+- **[May 2025]** Giving a research talk at Adobe MDSR, India!
 - **[May 2025]** Attending ICRA 2025 in Atlanta, for the amazing Arts and Robotics Track! 🎨🤖
 - **[Apr. 2025]** Attending NAACL 2025 in Albuquerque! ☀️🌵
 - **[Jan. 2025]** "Evaluating Vision-Language Models for Emotion Recognition" accepted to NAACL '25 Findings!
