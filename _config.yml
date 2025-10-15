@@ -13,7 +13,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=Acpq0MwAAAAJ&hl=en
-cv_link: assets/files/Sree_Industry_July2025.pdf
+cv_link: assets/files/Sree_Oct25.pdf
 github_link: https://github.com/sreebhattacharyya
 linkedin: https://www.linkedin.com/in/sree-bhattacharyya/
 twitter: https://twitter.com/SreeBee11
@@ -34,7 +34,7 @@ auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Roboto" # or "Serif"
+font: "Serif" # or "Roboto"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics

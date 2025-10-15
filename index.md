@@ -19,6 +19,7 @@ Besides academics, I love music in any and every form. I trained in Indian class
 
 ## News
 
+- **[October 2025]** Work on [Cognitive Appraisals](https://arxiv.org/pdf/2508.05880) to be presented at the WiML Workshop @ NeurIPS '25! 
 - **[May 2025]** Giving a research talk at Adobe MDSR, India!
 - **[May 2025]** Attending ICRA 2025 in Atlanta, for the amazing Arts and Robotics Track! 🎨🤖
 - **[Apr. 2025]** Attending NAACL 2025 in Albuquerque! ☀️🌵
