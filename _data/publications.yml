@@ -9,7 +9,7 @@ main:
     page: 
     bibtex: 
     notes: 
-    image: 
+    image: assets/img/Conf_image.png
   
   - title: "Expressing Social Emotions: Misalignment Between LLMs and Human Cultural Emotion Norms"
     authors: <strong>Sree Bhattacharyya</strong>, Manas Mehta, Leona Chen, Cristina Salvador, Agata Lapedriza, Shiran Dudy, James Z Wang
@@ -20,7 +20,7 @@ main:
     page: 
     bibtex: 
     notes: 
-    image: 
+    image: assets/img/Culture_image.png
   
   - title: "Unsupervised Memorability Modeling from Tip-of-the-Tongue Retrieval Queries"
     authors: <strong>Sree Bhattacharyya</strong>, Yaman K Singla, Sudhir Yarram, Somesh Singh, Harini Si, James Z Wang
@@ -31,7 +31,7 @@ main:
     page: 
     bibtex: 
     notes: 
-    image: 
+    image: assets/img/Memorability_image.png
 
   - title: "Do Machines Think Emotionally? Cognitive Appraisal Analysis of Large Language Models"
     authors: <strong>Sree Bhattacharyya</strong>, Evgenii Kuriabov, Lucas Craig, Tharun Dilliraj, Jia Li, Reginald Adams, James Z. Wang
@@ -42,7 +42,7 @@ main:
     page: 
     bibtex: 
     notes: 
-    image: 
+    image: assets/img/CogApp_image.png
   
   
   - title: "Evaluating Vision-Language Models for Emotion Recognition"
