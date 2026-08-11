@@ -1,10 +1,55 @@
 main:
+  
+  - title: "Beyond Confidence: Rethinking Self-Assessments for Performance Prediction in LLMs"
+    authors: <strong>Sree Bhattacharyya</strong>, Samarth Khanna, Leona Chen, Lucas Craig, Tharun Dilliraj, James Z Wang
+    conference_short: Under Review
+    conference: Workshop on Agent Behavior at COLM 2026
+    pdf: https://arxiv.org/pdf/2605.07806
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+  
+  - title: "Expressing Social Emotions: Misalignment Between LLMs and Human Cultural Emotion Norms"
+    authors: <strong>Sree Bhattacharyya</strong>, Manas Mehta, Leona Chen, Cristina Salvador, Agata Lapedriza, Shiran Dudy, James Z Wang
+    conference_short: Under Review
+    conference: 
+    pdf: https://arxiv.org/pdf/2604.16757
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+  
+  - title: "Unsupervised Memorability Modeling from Tip-of-the-Tongue Retrieval Queries"
+    authors: <strong>Sree Bhattacharyya</strong>, Yaman K Singla, Sudhir Yarram, Somesh Singh, Harini Si, James Z Wang
+    conference_short: WACV 2026
+    conference: 2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+    pdf: https://arxiv.org/pdf/2511.20854
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
 
+  - title: "Do Machines Think Emotionally? Cognitive Appraisal Analysis of Large Language Models"
+    authors: <strong>Sree Bhattacharyya</strong>, Evgenii Kuriabov, Lucas Craig, Tharun Dilliraj, Jia Li, Reginald Adams, James Z. Wang
+    conference_short: Under Review
+    conference: Women in Machine Learning Workshop at NeurIPS 2025
+    pdf: https://arxiv.org/abs/2508.05880v1
+    code: 
+    page: 
+    bibtex: 
+    notes: 
+    image: 
+  
+  
   - title: "Evaluating Vision-Language Models for Emotion Recognition"
     authors: <strong>Sree Bhattacharyya</strong>, James Z. Wang
     conference_short: NAACL 2025 Findings
     conference: Findings of The Annual Conference of the Nations of the Americas Chapter of the Association of Computational Linguistics (NAACL) 2025
-    pdf: 
+    pdf: https://aclanthology.org/2025.findings-naacl.97.pdf
     code: 
     page: 
     bibtex: 
@@ -15,7 +60,7 @@ main:
     authors: Sree Bhattacharyya, Shuhua Yang, James Z. Wang
     conference_short: ACII 2024
     conference: 12th International Conference on Affective Computing and Intelligent Interaction (2024)
-    pdf: 
+    pdf: https://arxiv.org/abs/2501.07746
     code: 
     bibtex:
     image: assets/img/ACII_image.png
