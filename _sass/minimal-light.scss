@@ -296,7 +296,8 @@ a:hover small {
 }
 
 .wrapper {
-  width:1100px;
+  width:92%;
+  max-width:1500px;
   margin:0 auto;
 }
 
@@ -432,7 +433,7 @@ header ul a strong {
 }
 
 section {
-  width:790px;
+  width:calc(100% - 310px);
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
@@ -458,7 +459,7 @@ footer {
   text-align:center;
 }
 
-@media print, screen and (max-width: 1100px) {
+@media print, screen and (max-width: 800px) {
 
   .pub-row {
   display: flex; 
@@ -513,7 +514,7 @@ footer {
   
 }
 
-@media print, screen and (max-width: 1100px) {
+@media print, screen and (max-width: 800px) {
   body {
     word-wrap:break-word;
     padding:15px;
