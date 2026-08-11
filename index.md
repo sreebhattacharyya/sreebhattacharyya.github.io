@@ -20,6 +20,8 @@ Besides academics, I love music in any and every form. I trained in Indian class
 
 ## News
 
+<div class="news-scroll" markdown="1">
+
 - **[Aug 2026]** Work on self-assessments in LLMs to be presented at WAB Workshop (COLM '26)! 🌉
 - **[May 2026]** Starting as a Research Scientist Intern at Meta Reality Labs Research, in Redmond! 
 - **[Jan 2026]** Organizing the BEEU Workshop at AAAI '26! 🇸🇬
@@ -33,6 +35,8 @@ Besides academics, I love music in any and every form. I trained in Indian class
 - **[Aug. 2023]** I started my PhD at Penn State! 
 - **[July 2023]** I completed a year at Microsoft!
 - **[June 2023]** My undergrad thesis got accepted as a workshop paper at IJCAI!
+
+</div>
 
 {% include_relative _includes/publications.md %}
 
