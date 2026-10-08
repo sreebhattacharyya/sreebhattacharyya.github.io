@@ -2,8 +2,8 @@ main:
   
   - title: "Beyond Confidence: Rethinking Self-Assessments for Performance Prediction in LLMs"
     authors: <strong>Sree Bhattacharyya</strong>, Samarth Khanna, Leona Chen, Lucas Craig, Tharun Dilliraj, James Z Wang
-    conference_short: Under Review
-    conference: Workshop on Agent Behavior at COLM 2026
+    conference_short: NeurIPS 2026
+    conference: The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026) (also presented at Workshop on Agent Behavior at COLM 2026)
     pdf: https://arxiv.org/pdf/2605.07806
     code: 
     page: 
