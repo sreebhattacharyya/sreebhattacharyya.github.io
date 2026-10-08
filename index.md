@@ -18,6 +18,7 @@ Besides academics, I love music in any and every form. I trained in Indian class
 
 <div class="news-scroll" markdown="1">
 
+- **[Sept. 2026]** New (version of) [preprint](https://arxiv.org/abs/2508.05880v3) on concept-level homogeneity in LLMs when behaviorally representing emotions.
 - **[Sept. 2026]** Work on [self-assessments for calibration/uncertainty quantification](https://arxiv.org/abs/2605.07806) accepted to NeurIPS 2026 Main Conference! 
 - **[Aug 2026]** Work on self-assessments in LLMs to be presented at WAB Workshop (COLM '26)! 🌉
 - **[May 2026]** Starting as a Research Scientist Intern at Meta Reality Labs Research, in Redmond! 
